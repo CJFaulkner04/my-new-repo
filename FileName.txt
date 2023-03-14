@@ -1,2 +1,5 @@
 git push 
 uploads all local branch commits to the corresponding remote branch
+
+git merge 
+merges a specified branch into the branch the user is currently one
