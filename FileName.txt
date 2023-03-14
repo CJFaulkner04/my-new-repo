@@ -6,3 +6,6 @@ merges a specified branch into the branch the user is currently one
 
 git fetch
 a primary command used to download contents from a remote repository.
+
+git commit 
+commits changes and stages them to be pushed to the online repository
