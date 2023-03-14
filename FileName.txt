@@ -1,0 +1,2 @@
+git push 
+uploads all local branch commits to the corresponding remote branch
